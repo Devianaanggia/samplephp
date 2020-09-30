@@ -36,4 +36,4 @@ jobs:
     # - name: Run test suite
     #   run: composer run-script test
       -name: Run test suite
-       run: echo 'helo deviana rahayu anggia'
+       run: coba.php
